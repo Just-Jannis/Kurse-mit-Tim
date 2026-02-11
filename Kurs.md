@@ -23,3 +23,4 @@ Natürlich kann man sich Daten nicht einfach Ausdenken. ChatGPT kann man leider 
 ***************************************************************************
 
 Mal schauen wie es hier weitergehen kann.
+Gucken wir mal was wir sonst noch so machen können
